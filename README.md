@@ -50,7 +50,7 @@ This is the first CRUD nest app project. And it is for manage bookmarks for user
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/hamadazaid2/natours.git
+   git clone [https://github.com/hamadazaid2/natours.git](https://github.com/hamadazaid2/bookmarks-nest.git)
    ```
 2. Install NPM packages
    ```sh
