@@ -59,15 +59,11 @@ This is the first CRUD nest app project. And it is for manage bookmarks for user
 3. In the project root folder, rename `.env.example` file to `.env` and fill in the environment variables
 
    ```
-   DATABASE_URL="postgresql://postgres:123@localhost:5434/nest?schema=public"
-   JWT_SECRETE='HAMADA IS LOVE ZAMALEK SO FUCKING BAD'
+   DATABASE_URL="..."
+   JWT_SECRETE='...'
    ```
-
-4. In the `client` folder, renmae `.env.example` file to `.env` and fill in the environment variables
-   ```sh
-   REACT_APP_SERVER_LINK = 'http://localhost:3000'
-   ```
-5. To run the application `npm run start:dev` and to run E2E testing `npm run test:e2e`
+   
+4. To run the application `npm run start:dev` and to run E2E testing `npm run test:e2e`
 
 ## This Website Developed BY
 
